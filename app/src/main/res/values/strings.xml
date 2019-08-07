@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Appinterview</string>
+    <string name="sq">simple Questions</string>
+    <string name="tq">Tough Questions</string>
+    <string name="seeother">See Other App</string>
+    <string name="rateapp">Rate App</string>
+    <string name="textview">TextView</string>
+    <string name="xx">xx/</string>
+    <string name="yy">yy</string>
+    <string name="question">Question</string>
+    <string name="press_a_for_answer">Press A for answer</string>
+    <string name="category_question">Category Question</string>
+    <String name="category_question">Category Question</String>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dificult_ques">
+
+        <item>What can flutter do?</item>
+        <item>What language does flutter use?</item>
+        <item>What is flutter framework?</item>
+
+
+
+    </string-array>
+
+
+
+</resources>

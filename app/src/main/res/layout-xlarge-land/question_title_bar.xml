@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal"
+    android:background="@drawable/questionbar"
+    android:gravity="center"
+    android:layout_weight="100"
+    android:id="@+id/question_title_bar">
+
+    <Button
+        android:id="@+id/bspeak"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_weight="20"
+        android:background="@drawable/music"/>
+
+    <TextView
+        android:id="@+id/tv_question_titlebar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="60"
+        android:text="@string/category_question"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:textColor="#ffffff"/>
+
+
+    <Button
+        android:id="@+id/bstop_mute"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_weight="20"
+        android:background="@drawable/pause" />
+
+</LinearLayout>

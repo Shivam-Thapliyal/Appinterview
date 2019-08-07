@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_action_name"
+  >
+
+    <Button
+        android:id="@+id/bsq"
+        android:layout_width="375dp"
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="178dp"
+        android:background="@drawable/button_custom"
+        android:text="@string/sq"
+        android:textColor="#ffffff"
+        android:textSize="35sp" />
+
+    <Button
+        android:id="@+id/btq"
+        android:layout_width="375dp"
+        android:layout_height="70dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="287dp"
+        android:background="@drawable/button_custom"
+        android:text="@string/tq"
+        android:textColor="#ffffff"
+        android:textSize="35sp" />
+
+    <Button
+        android:id="@+id/bseeotherapp"
+        android:layout_width="375dp"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="262dp"
+        android:background="@drawable/button_custom"
+        android:text="@string/seeother"
+        android:textColor="#ffffff"
+        android:textSize="35sp" />
+
+    <Button
+        android:id="@+id/brateapp"
+        android:layout_width="375dp"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="163dp"
+        android:background="@drawable/button_custom"
+        android:text="@string/rateapp"
+        android:textColor="#ffffff"
+        android:textSize="35sp" />
+
+</RelativeLayout>

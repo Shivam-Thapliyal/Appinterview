@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="simple_ques">
+     <item>what is an android</item>
+        <item>what is the Google Android Sdk?</item>
+        <item>what si adb?</item>
+
+
+
+
+    </string-array>
+
+
+</resources>

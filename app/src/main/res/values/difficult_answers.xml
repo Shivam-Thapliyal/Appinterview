@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string-array name="difficult_ans">
+
+<item>What does Flutter do? For users, Flutter makes beautiful app UIs come to life. For developers, Flutter lowers the bar to entry for building mobile apps. It speeds up development of mobile apps and reduces the cost and complexity of app production across iOS and Android</item>
+<item>For android development Java/Kotlin are the programming languages, for cross-platform development using flutter, DART is the official programming language</item>
+<item>Flutter is an open source SDK for creating high-performance, high-fidelity mobile apps for iOS and Android</item>
+ </string-array>
+
+
+
+
+
+</resources>
